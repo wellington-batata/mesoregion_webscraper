@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
+    "jsonexport": "^2.4.1",
     "mongodb": "^3.1.10",
     "puppeteer": "^1.10.0"
   }
